@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/F\xE6rdigProdukt/Save2Menu.unity"
+    guid: 2bf1a9126ea921e459aa92754b6a16ae
+  - enabled: 1
+    path: "Assets/F\xE6rdigProdukt/Betav4.unity"
+    guid: 46d7ec4e72bd22748a92796380401c51
+  - enabled: 1
+    path: "Assets/F\xE6rdigProdukt/Dungeon 1.unity"
+    guid: 8c0321f42b074ff46b3bc195e0c105d0
+  m_configObjects: {}
